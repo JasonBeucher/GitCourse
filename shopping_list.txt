@@ -1,6 +1,6 @@
-- milk2
+- water
 - meat
 - apple juice
 - bowl
 - salad
-- chicken3
+- chicken
