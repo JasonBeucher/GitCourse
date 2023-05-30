@@ -1,0 +1,5 @@
+- milk
+- meat
+- apple juice
+- bowl
+- salad
